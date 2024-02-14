@@ -1,1 +1,3 @@
 node_modules
+# Not inclued .env file in gitignore  for your testing
+#.env 
